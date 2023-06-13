@@ -1,0 +1,13 @@
+body{
+  background-color: rgba(0, 0, 0, 0.85);
+  text-align: center;
+  overflow: hidden;
+}
+.name{
+  font-size: 130px;
+  color: aqua;
+  position: relative;
+  font-family: Courgette, Pacifico;
+  text-shadow: 5px 5px 100px cyan;
+  top: 200px;
+}
